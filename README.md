@@ -32,7 +32,6 @@ The [conjunction search component](conjunction_search/README.md) combs through f
 The SSA solution demo can be accessed at https://spaceorbits.net/
 
 
-
 # License
 
 The IBM Space Situational Awareness solution is licensed under the Apache 2.0 license. Full license text is available at [LICENSE](LICENSE).
